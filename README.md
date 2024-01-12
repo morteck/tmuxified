@@ -37,8 +37,13 @@ There's need to restart your tmux session as there is already a line within the 
     - Scroll through panes and resize them using the mouse.
     
 - **Custom Key Bindings:**
+
     
     - Intuitive and ergonomic key bindings for common actions.
     - Check the configuration file for a comprehensive list.
 
-- **Plugin Support:** Easily extend functionality with popular tmux plugins for additional uses. 
+- **Plugin Support:** Easily extend functionality with popular tmux plugins for additional uses.
+
+
+
+If you'd like to contribute to this repository, please feel free to fork this repo and commit changes for approval. 
