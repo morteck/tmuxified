@@ -1,4 +1,4 @@
-# Configuration dot file for customized tmux.
+# Configuration file for a simplified yet customized tmux expirience.
 
 **This repository houses my personally created tmux configs. Tmux, meaning "terminal multiplexer", is based on a similar terminal multiplexer called "screen." The idea behind both tmux and screen is to enable a user to run multiple terminal sessions within a single terminal window or SSH session. This allows you, the user/admin, to create and manage multiple terminal sessions, detach and reattach to sessions, and run commands concurrently.**
 
