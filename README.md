@@ -2,11 +2,6 @@
 
 ## This repository houses my personally created tmux configs. Tmux, meaning "terminal multiplexer", is based on a similar terminal multiplexer called "screen." The idea behind both tmux and screen is to enable a user to run multiple terminal sessions within a single terminal window or SSH session. This allows you, the user/admin, to create and manage multiple terminal sessions, detach and reattach to sessions, and run commands concurrently. ## 
 
-## Key Features: 
-
-- **Intuitive Key Bindings:** Simplified and easy-to-remember key bindings for common tmux actions.
-- **Custom Status Bar:** A clean and informative status bar at the bottom to keep you informed about your sessions, windows, and panes.
-- **Plugin Support:** Easily extend functionality with popular tmux plugins for a tailored experience.
 
 ## Get Started: ##
 
