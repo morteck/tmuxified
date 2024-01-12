@@ -1,13 +1,6 @@
-___________                  .__  _____.__           .___ ._._.
-\__    ___/____  __ _____  __|__|/ ____\__| ____   __| _/ | | |
-  |    | /     \|  |  \  \/  /  \   __\|  |/ __ \ / __ |  | | |
-  |    ||  Y Y  \  |  />    <|  ||  |  |  \  ___// /_/ |   \|\|
-  |____||__|_|  /____//__/\_ \__||_/_|  |__|\___  >____ |   ____
-              \/            \/                 \/     \/   \/\
+# Configuration dot file for customized tmux.
 
-
-
-## Why hello there! This repository houses my personally created tmux configs. Tmux, meaning "terminal multiplexer", is based on a similar terminal multiplexer called "screen." The idea behind both tmux and screen is to enable a user to run multiple terminal sessions within a single terminal window or SSH session. This allows you, the user/admin, to create and manage multiple terminal sessions, detach and reattach to sessions, and run commands concurrently. ## 
+## This repository houses my personally created tmux configs. Tmux, meaning "terminal multiplexer", is based on a similar terminal multiplexer called "screen." The idea behind both tmux and screen is to enable a user to run multiple terminal sessions within a single terminal window or SSH session. This allows you, the user/admin, to create and manage multiple terminal sessions, detach and reattach to sessions, and run commands concurrently. ## 
 
 ## Key Features: 
 
