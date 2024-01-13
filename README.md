@@ -1,9 +1,10 @@
- _____                     _  __ _          _   _ _ _ 
-|_   _| __ ___  _   ___  _(_)/ _(_) ___  __| | | | | |
-  | || '_ ` _ \| | | \ \/ / | |_| |/ _ \/ _` | | | | |
-  | || | | | | | |_| |>  <| |  _| |  __/ (_| | |_|_|_|
-  |_||_| |_| |_|\__,_/_/\_\_|_| |_|\___|\__,_| (_|_|_)
-                                                      
+
+
+ ![image](https://github.com/morteck/tmuxified/assets/100557140/b663dd99-e110-4bf8-8f8a-37133bed37d4)
+
+ 
+ 
+
 
 
 # Configuration file for a simplified yet customized tmux expirience.
